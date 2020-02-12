@@ -2,6 +2,8 @@
 
 https://opentutorials.org/course/3086
 
+https://leequant761.github.io/web2_CSS/index.html
+
 ## 목적
 
 HTML 디자인 with 가독성 & 유지보수
